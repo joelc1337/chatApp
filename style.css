@@ -1,0 +1,16 @@
+header.jumbotron{
+
+	background-color:#FF9999;
+
+}
+
+body{
+	background-color:white;
+}
+
+section .row{
+	padding:30px;
+	background-color:#99FF99;
+	border:solid 5px black;
+	margin-top:30px;
+}
